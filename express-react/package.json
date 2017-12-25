@@ -1,0 +1,19 @@
+{
+  "name": "yaygis-express-react",
+  "version": "1.0.0",
+  "description": "YaYGIS - Fun with GIS data (and other datasets) and various web technologies!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vegafx12/YayGIS.git"
+  },
+  "author": "Fernando Vega",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vegafx12/YayGIS/issues"
+  },
+  "homepage": "https://github.com/vegafx12/YayGIS#readme"
+}
